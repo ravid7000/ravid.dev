@@ -10,6 +10,11 @@
 	--color-accent: hsl(11deg 89% 58%);
 }
 
+/* header */
+:root {
+	--header-height: 70px;
+}
+
 html {
 	height: 100%;
 }

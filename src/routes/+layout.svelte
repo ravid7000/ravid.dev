@@ -4,6 +4,6 @@
 	///- styles
 </script>
 
-<main>
+<main class="h-[100%]">
 	<slot />
 </main>
