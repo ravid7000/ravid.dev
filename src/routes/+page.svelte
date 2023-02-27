@@ -1,6 +1,7 @@
 <script lang="ts">
 	// components
 	import Section from '$lib/components/Section.svelte';
+	import Navbar from '$lib/components/Navbar.svelte';
 	/// -components
 </script>
 
@@ -16,3 +17,5 @@
 		</h1>
 	</div>
 </Section>
+
+<Navbar />

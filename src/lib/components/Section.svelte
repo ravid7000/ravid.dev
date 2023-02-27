@@ -5,7 +5,7 @@
 </script>
 
 <section class:hero>
-	<div class="max-w-[800px] lg:max-w-[1100px] 2xl:max-w-[1400px]  mx-auto mr-auto px-5">
+	<div class="max-w-[800px] lg:max-w-[1100px] 2xl:max-w-[1400px] mx-auto mr-auto px-5">
 		<slot />
 	</div>
 </section>
